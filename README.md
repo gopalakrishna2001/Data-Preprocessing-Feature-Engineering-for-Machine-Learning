@@ -7,3 +7,12 @@ Implementing Random Forest ML Algorithm to understand factors that influence hou
 3.Seaborn
 4.Sklearn
 5.Numpy
+## Dataset
+The dataset "Housing" contains ~20000 rows and 10 columns i.e., longitude	latitude,housing_median_age,total_rooms,total_bedrooms,population,households,median_income,median_house_value &	ocean_proximity.
+
+## Algorithm
+Random Forest classification algorithm.
+
+## Project Observation
+
+
